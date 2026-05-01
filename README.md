@@ -27,7 +27,6 @@ Performance decreased on real-world Reddit data due to increased variability
 notebooks/ → experiment notebooks  
 results/ → evaluation outputs and model predictions  
 figures/ → confusion matrices and visualisations  
-data/ → sample datasets  
 docs/ → experiment summary  
 
 ## Final Words
